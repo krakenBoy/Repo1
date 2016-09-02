@@ -243,3 +243,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/ConsoleApplication1/ConsoleApplication1/App.config
